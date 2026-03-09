@@ -1,0 +1,19 @@
+{
+  "name": "rally-tsp",
+  "version": "1.0.0",
+  "description": "TSP problem solver for rally scenarios (working backwards from known finish time/location)",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx ./index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gpxparser": "^3.0.8"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "tsx": "^4.21.0"
+  }
+}

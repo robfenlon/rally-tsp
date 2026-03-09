@@ -1,0 +1,1371 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2025-09-28T15:54:30Z</time>
+    <bounds maxlat="53.415029961615801" maxlon="-2.626370033249259" minlat="51.391030009835958" minlon="-5.180970020592213" />
+  </metadata>
+
+  <wpt lat="52.41770479013512" lon="-4.0841747086518865">
+    <time>2025-06-30T19:49:44Z</time>
+    <name>Finish</name>
+    <cmt>Finish</cmt>
+    <desc>Finish</desc>
+    <sym>Flag, Green</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:49:44Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.910369988530874" lon="-3.598780017346144">
+    <time>2025-06-30T19:50:18Z</time>
+    <name>01 White Lions</name>
+    <cmt>N52.91037° W3.59878°</cmt>
+    <desc>N52.91037° W3.59878°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:50:18Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.236700026318431" lon="-4.122179998084903">
+    <time>2025-06-30T19:51:17Z</time>
+    <name>02 - Garth Pier</name>
+    <cmt>N53.23670° W4.12218°</cmt>
+    <desc>N53.23670° W4.12218°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:51:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.08232001401484" lon="-2.995139993727207">
+    <time>2025-06-30T19:53:23Z</time>
+    <name>03 - Arthurs Stone</name>
+    <cmt>N52.08232° W2.99514°</cmt>
+    <desc>N52.08232° W2.99514°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:53:23Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.98182001337409" lon="-3.412249982357025">
+    <time>2025-06-30T19:54:08Z</time>
+    <name>04 - Bison</name>
+    <cmt>N52.98182° W3.41225°</cmt>
+    <desc>N52.98182° W3.41225°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:54:08Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.325430015102029" lon="-3.390840003266931">
+    <time>2025-06-30T19:54:48Z</time>
+    <name>05 - Prestatyn View</name>
+    <cmt>N53.32543° W3.39084°</cmt>
+    <desc>N53.32543° W3.39084°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:54:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.944090025499463" lon="-3.698400026187301">
+    <time>2025-06-30T19:55:32Z</time>
+    <name>06 - Usk Reservoir</name>
+    <cmt>N51.94409° W3.69840°</cmt>
+    <desc>N51.94409° W3.69840°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:55:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.908770026639104" lon="-4.656860008835793">
+    <time>2025-06-30T19:56:09Z</time>
+    <name>07 - Arch</name>
+    <cmt>N51.90877° W4.65686°</cmt>
+    <desc>N51.90877° W4.65686°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:56:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.192320028319955" lon="-3.191560003906488">
+    <time>2025-06-30T19:56:58Z</time>
+    <name>08 - Mendellson Plaque</name>
+    <cmt>N53.19232° W3.19156°</cmt>
+    <desc>N53.19232° W3.19156°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:56:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.917269971221685" lon="-3.516480037942529">
+    <time>2025-06-30T19:59:04Z</time>
+    <name>09 - War Memorial Cross</name>
+    <cmt>N52.91727° W3.51648°</cmt>
+    <desc>N52.91727° W3.51648°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:59:04Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.772929970175028" lon="-3.104340014979243">
+    <time>2025-06-30T19:59:35Z</time>
+    <name>10 - Pit Museum Train</name>
+    <cmt>N51.77293° W3.10434°</cmt>
+    <desc>N51.77293° W3.10434°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:59:35Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.391030009835958" lon="-3.276040032505989">
+    <time>2025-06-30T20:00:53Z</time>
+    <name>11 - RNLI Boot</name>
+    <cmt>N51.39103° W3.27604°</cmt>
+    <desc>N51.39103° W3.27604°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T20:00:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.715170023962855" lon="-5.173750016838312">
+    <time>2025-06-30T20:01:26Z</time>
+    <name>12 - Dale Lime Kiln</name>
+    <cmt>N51.71517° W5.17375°</cmt>
+    <desc>N51.71517° W5.17375°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T20:01:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.948170000687242" lon="-5.152359986677766">
+    <time>2025-06-30T20:02:04Z</time>
+    <name>13 - Melin Trefin Mill</name>
+    <cmt>N51.94817° W5.15236°</cmt>
+    <desc>N51.94817° W5.15236°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T20:02:04Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.548820031806827" lon="-3.717879988253117">
+    <time>2025-06-30T20:03:28Z</time>
+    <name>14 - Wynford Vaughn Thomas</name>
+    <cmt>N52.54882° W3.71788°</cmt>
+    <desc>N52.54882° W3.71788°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T20:03:28Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.827220000326633" lon="-3.449339987710118">
+    <time>2025-06-30T20:04:27Z</time>
+    <name>15 - St Melengells Church</name>
+    <cmt>N52.82722° W3.44934°</cmt>
+    <desc>N52.82722° W3.44934°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T20:04:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.300919964909554" lon="-3.514020033180714">
+    <time>2025-06-30T20:05:11Z</time>
+    <name>16 - Rayander Castle Site</name>
+    <cmt>N52.30092° W3.51402°</cmt>
+    <desc>N52.30092° W3.51402°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T20:05:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.115510027855635" lon="-4.112959988415241">
+    <time>2025-06-30T20:05:48Z</time>
+    <name>17 - Dolbadarn Castle</name>
+    <cmt>N53.11551° W4.11296°</cmt>
+    <desc>N53.11551° W4.11296°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T20:05:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.859499966725707" lon="-4.108799966052175">
+    <time>2025-06-30T20:06:57Z</time>
+    <name>18 - Harlech Castle Horse</name>
+    <cmt>N52.85950° W4.10880°</cmt>
+    <desc>N52.85950° W4.10880°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T20:06:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.762759979814291" lon="-3.45419998280704">
+    <time>2025-06-30T20:07:39Z</time>
+    <name>19 - Llannwddyen  Dam</name>
+    <cmt>N52.76276° W3.45420°</cmt>
+    <desc>N52.76276° W3.45420°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T20:07:39Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.555959988385439" lon="-3.531190026551485">
+    <time>2025-06-30T20:08:35Z</time>
+    <name>20 - Carno Wall Memorial</name>
+    <cmt>N52.55596° W3.53119°</cmt>
+    <desc>N52.55596° W3.53119°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T20:08:35Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.262170007452369" lon="-3.599080005660653">
+    <time>2025-07-01T19:19:57Z</time>
+    <name>21 - Nangwyllt Church</name>
+    <cmt>N52.26217° W3.59908°</cmt>
+    <desc>N52.26217° W3.59908°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:19:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.117129974067211" lon="-3.765059961006045">
+    <time>2025-07-01T19:21:19Z</time>
+    <name>22 - llyn brianne Sluice</name>
+    <cmt>N52.11713° W3.76506°</cmt>
+    <desc>N52.11713° W3.76506°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:21:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.460060035809875" lon="-3.832139996811748">
+    <time>2025-07-01T19:22:26Z</time>
+    <name>23 - Nant y Moch Dam</name>
+    <cmt>N52.46006° W3.83214°</cmt>
+    <desc>N52.46006° W3.83214°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:22:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.945979977026582" lon="-3.390089990571141">
+    <time>2025-07-01T19:23:02Z</time>
+    <name>24 - Boadecia</name>
+    <cmt>N51.94598° W3.39009°</cmt>
+    <desc>N51.94598° W3.39009°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:23:02Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.747489972040057" lon="-3.617130015045404">
+    <time>2025-07-01T19:23:44Z</time>
+    <name>25 - Max Boyce</name>
+    <cmt>N51.74749° W3.61713°</cmt>
+    <desc>N51.74749° W3.61713°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:23:44Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.625890014693141" lon="-3.58414001762867">
+    <time>2025-07-01T19:24:22Z</time>
+    <name>26 - Ocean Colliery</name>
+    <cmt>N51.62589° W3.58414°</cmt>
+    <desc>N51.62589° W3.58414°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:24:22Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.272150028496981" lon="-4.116070009768009">
+    <time>2025-07-01T19:25:12Z</time>
+    <name>27 - Buckley Monument</name>
+    <cmt>N53.27215° W4.11607°</cmt>
+    <desc>N53.27215° W4.11607°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:25:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.353939969092607" lon="-4.233910012990236">
+    <time>2025-07-01T19:26:47Z</time>
+    <name>28 - Dic Evans -</name>
+    <cmt>N53.35394° W4.23391°</cmt>
+    <desc>N53.35394° W4.23391°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:26:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.070271974429488" lon="-4.28384997881949">
+    <time>2025-07-01T19:27:33Z</time>
+    <name>29 - Water Wheel</name>
+    <cmt>N53.07027° W4.28385°</cmt>
+    <desc>N53.07027° W4.28385°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:27:33Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.575989970937371" lon="-3.030310040339828">
+    <time>2025-07-01T19:28:11Z</time>
+    <name>30 - Mitchells Fold</name>
+    <cmt>N52.57599° W3.03031°</cmt>
+    <desc>N52.57599° W3.03031°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:28:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.011630000546575" lon="-4.099839963018894">
+    <time>2025-07-01T19:28:52Z</time>
+    <name>31 /32 - Gelert the dog</name>
+    <cmt>N53.01163° W4.09984°</cmt>
+    <desc>N53.01163° W4.09984°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:28:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.011590018868446" lon="-4.101869976148009">
+    <time>2025-07-01T19:30:35Z</time>
+    <name>33 - Dragon</name>
+    <cmt>N53.01159° W4.10187°</cmt>
+    <desc>N53.01159° W4.10187°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:30:35Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.691129971295595" lon="-3.346699979156256">
+    <time>2025-07-01T19:31:01Z</time>
+    <name>34 - Aberfan Cemetary</name>
+    <cmt>N51.69113° W3.34670°</cmt>
+    <desc>N51.69113° W3.34670°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:31:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.303149994462729" lon="-3.237140038982034">
+    <time>2025-07-01T19:31:46Z</time>
+    <name>35 - Duke of Lancaster Ship</name>
+    <cmt>N53.30315° W3.23714°</cmt>
+    <desc>N53.30315° W3.23714°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:31:46Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.415029961615801" lon="-4.33638003654778">
+    <time>2025-07-01T19:32:27Z</time>
+    <name>36- Almwych Port Windmill</name>
+    <cmt>N53.41503° W4.33638°</cmt>
+    <desc>N53.41503° W4.33638°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:32:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.174000037834048" lon="-4.347620001062751">
+    <time>2025-07-01T19:33:26Z</time>
+    <name>37 - Hawker Hunter Plane</name>
+    <cmt>N53.17400° W4.34762°</cmt>
+    <desc>N53.17400° W4.34762°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:33:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.943719988688827" lon="-4.342780038714409">
+    <time>2025-07-01T19:33:56Z</time>
+    <name>38 - St cybis well</name>
+    <cmt>N52.94372° W4.34278°</cmt>
+    <desc>N52.94372° W4.34278°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:33:56Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.944879960268736" lon="-4.339849976822734">
+    <time>2025-08-02T09:00:49Z</time>
+    <name>38a - St Cybis Alternate Access</name>
+    <cmt>N52.94488° W4.33985°</cmt>
+    <desc>N52.94488° W4.33985°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-08-02T09:00:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.850799970328808" lon="-4.634969998151064">
+    <time>2025-07-01T19:34:27Z</time>
+    <name>39 - Ffynnon fair well</name>
+    <cmt>N52.85080° W4.63497°</cmt>
+    <desc>N52.85080° W4.63497°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:34:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.181160027161241" lon="-3.419490018859506">
+    <time>2025-07-01T19:35:20Z</time>
+    <name>40 - Denbeigh Castle</name>
+    <cmt>N53.18116° W3.41949°</cmt>
+    <desc>N53.18116° W3.41949°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-01T19:35:20Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.413690006360412" lon="-4.091109959408641">
+    <time>2025-07-03T17:58:30Z</time>
+    <name>41 - War Memorial</name>
+    <cmt>N52.41369° W4.09111°</cmt>
+    <desc>N52.41369° W4.09111°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T17:58:30Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.364139966666698" lon="-3.814630033448339">
+    <time>2025-07-03T17:59:15Z</time>
+    <name>42 - The Arch</name>
+    <cmt>N52.36414° W3.81463°</cmt>
+    <desc>N52.36414° W3.81463°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T17:59:15Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.310680020600557" lon="-3.118720008060336">
+    <time>2025-07-03T18:00:12Z</time>
+    <name>43 - Phone Box</name>
+    <cmt>N52.31068° W3.11872°</cmt>
+    <desc>N52.31068° W3.11872°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:00:12Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.074992973357439" lon="-3.126230025663972">
+    <time>2025-07-03T18:01:03Z</time>
+    <name>44 - Clock Tower</name>
+    <cmt>N52.07499° W3.12623°</cmt>
+    <desc>N52.07499° W3.12623°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:01:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.645090021193027" lon="-2.66958000138402">
+    <time>2025-07-03T18:01:31Z</time>
+    <name>45 - Gloucester Hole</name>
+    <cmt>N51.64509° W2.66958°</cmt>
+    <desc>N51.64509° W2.66958°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:01:31Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.788300033658743" lon="-2.626370033249259">
+    <time>2025-07-03T18:02:27Z</time>
+    <name>46 - Whitecliff Ironworks</name>
+    <cmt>N51.78830° W2.62637°</cmt>
+    <desc>N51.78830° W2.62637°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:02:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.996849998831749" lon="-4.974679984152317">
+    <time>2025-07-03T18:03:38Z</time>
+    <name>47 - Fishguard Cannon</name>
+    <cmt>N51.99685° W4.97468°</cmt>
+    <desc>N51.99685° W4.97468°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:03:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.94788996130228" lon="-5.180970020592213">
+    <time>2025-07-03T18:04:10Z</time>
+    <name>48 - Porthgain Gun</name>
+    <cmt>N51.94789° W5.18097°</cmt>
+    <desc>N51.94789° W5.18097°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:04:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.710359985008836" lon="-5.029850006103516">
+    <time>2025-07-03T18:04:54Z</time>
+    <name>49 - Fisherman</name>
+    <cmt>N51.71036° W5.02985°</cmt>
+    <desc>N51.71036° W5.02985°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:04:54Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.77049002237618" lon="-3.466170011088252">
+    <time>2025-07-03T18:07:41Z</time>
+    <name>50 - Vrynwy Tower</name>
+    <cmt>N52.77049° W3.46617°</cmt>
+    <desc>N52.77049° W3.46617°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:07:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.236080016940832" lon="-4.484239993616939">
+    <time>2025-07-03T18:08:26Z</time>
+    <name>51 - Burial Chamber</name>
+    <cmt>N53.23608° W4.48424°</cmt>
+    <desc>N53.23608° W4.48424°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:08:26Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.316760025918484" lon="-4.635989991948009">
+    <time>2025-07-03T18:09:19Z</time>
+    <name>52 - Maritime Museum Cannon</name>
+    <cmt>N53.31676° W4.63599°</cmt>
+    <desc>N53.31676° W4.63599°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:09:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.310720026493073" lon="-4.041739962995052">
+    <time>2025-07-03T18:10:19Z</time>
+    <name>53- Trwyn Du Lightohouse</name>
+    <cmt>N53.31072° W4.04174°</cmt>
+    <desc>N53.31072° W4.04174°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:10:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.329360038042068" lon="-3.828339977189899">
+    <time>2025-07-03T18:11:13Z</time>
+    <name>54 - Heritage Sign</name>
+    <cmt>N53.32936° W3.82834°</cmt>
+    <desc>N53.32936° W3.82834°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:11:13Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.249280005693436" lon="-3.222080022096634">
+    <time>2025-07-03T18:11:39Z</time>
+    <name>55 - Lime Kilns</name>
+    <cmt>N53.24928° W3.22208°</cmt>
+    <desc>N53.24928° W3.22208°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:11:39Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.443229988217354" lon="-3.294990006834269">
+    <time>2025-07-03T18:12:10Z</time>
+    <name>56 - St Lythans Burial Chamber</name>
+    <cmt>N51.44323° W3.29499°</cmt>
+    <desc>N51.44323° W3.29499°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:12:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.602250030264258" lon="-3.32676999270916">
+    <time>2025-07-03T18:12:48Z</time>
+    <name>57 - Rocking Stone</name>
+    <cmt>N51.60225° W3.32677°</cmt>
+    <desc>N51.60225° W3.32677°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:12:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.685479981824756" lon="-3.26555997133255">
+    <time>2025-07-03T18:13:51Z</time>
+    <name>58 - Capel Gwladys</name>
+    <cmt>N51.68548° W3.26556°</cmt>
+    <desc>N51.68548° W3.26556°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:13:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.546299988403916" lon="-4.212099965661764">
+    <time>2025-07-03T18:14:38Z</time>
+    <name>59 - Lifeboatman</name>
+    <cmt>N51.54630° W4.21210°</cmt>
+    <desc>N51.54630° W4.21210°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:14:38Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.615829970687628" lon="-3.935490036383271">
+    <time>2025-07-03T18:15:41Z</time>
+    <name>60 - Captain Cat</name>
+    <cmt>N51.61583° W3.93549°</cmt>
+    <desc>N51.61583° W3.93549°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-03T18:15:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.616809982806444" lon="-3.93694999627769">
+    <time>2025-07-04T14:25:16Z</time>
+    <name>61 - Dylan Thomas</name>
+    <cmt>N51.61681° W3.93695°</cmt>
+    <desc>N51.61681° W3.93695°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:25:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.768840020522475" lon="-4.463109970092773">
+    <time>2025-07-04T14:26:39Z</time>
+    <name>62 - Dylan Thomas Bust</name>
+    <cmt>N51.76884° W4.46311°</cmt>
+    <desc>N51.76884° W4.46311°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:26:39Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.775440014898777" lon="-4.463109970092773">
+    <time>2025-07-04T14:27:17Z</time>
+    <name>63 - Dylan Thomas Grave</name>
+    <cmt>N51.77544° W4.46311°</cmt>
+    <desc>N51.77544° W4.46311°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:27:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.467699972912669" lon="-3.600799972191453">
+    <time>2025-07-04T14:28:14Z</time>
+    <name>64 - Bryntail Lead mine</name>
+    <cmt>N52.46770° W3.60080°</cmt>
+    <desc>N52.46770° W3.60080°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:28:14Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.991839967668056" lon="-4.114169999957085">
+    <time>2025-07-04T14:29:16Z</time>
+    <name>65 - St Michaels</name>
+    <cmt>N51.99184° W4.11417°</cmt>
+    <desc>N51.99184° W4.11417°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:29:16Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.221460025757551" lon="-4.021209999918938">
+    <time>2025-07-04T14:30:00Z</time>
+    <name>66 - Daniel Rowland</name>
+    <cmt>N52.22146° W4.02121°</cmt>
+    <desc>N52.22146° W4.02121°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:30:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.413349976763129" lon="-3.125780001282692">
+    <time>2025-07-04T14:30:41Z</time>
+    <name>67 - Leasoe Lighthouse</name>
+    <cmt>N53.41335° W3.12578°</cmt>
+    <desc>N53.41335° W3.12578°</desc>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:30:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+</gpx>
