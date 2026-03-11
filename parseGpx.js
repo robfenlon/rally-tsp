@@ -29,7 +29,7 @@ async function parseGpxFile(filePath) {
       if (fromWaypoint === toWaypoint)
         continue;
 
-      if (toWaypoint.name === 'Finish')
+      if (fromWaypoint.name === 'Finish' || toWaypoint.name.startsWith('Start'))
         continue;
 
       const toLoc = `${toWaypoint.lat}, ${toWaypoint.lon}`;

@@ -8,12 +8,12 @@
     <bounds maxlat="53.415029961615801" maxlon="-2.626370033249259" minlat="51.391030009835958" minlon="-5.180970020592213" />
   </metadata>
 
-  <wpt lat="52.41770479013512" lon="-4.0841747086518865">
-    <time>2025-06-30T19:49:44Z</time>
-    <name>Finish</name>
-    <cmt>Finish</cmt>
-    <desc>Finish</desc>
-    <sym>Flag, Green</sym>
+  <wpt lat="52.40533170287101" lon="-4.065351242170724">
+    <time>2025-07-04T14:30:41Z</time>
+    <name>Start A</name>
+    <cmt>N52.40533° W4.06535°</cmt>
+    <desc>N52.40533° W4.06535°</desc>
+    <sym>Flag, Blue</sym>
     <type>user</type>
     <extensions>
       <gpxx:WaypointExtension>
@@ -23,7 +23,127 @@
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2025-06-30T19:49:44Z</ctx:CreationTime>
+        <ctx:CreationTime>2025-07-04T14:30:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.51437136176743" lon="-3.3100477941970103">
+    <time>2025-07-04T14:30:41Z</time>
+    <name>Start B</name>
+    <cmt>N52.51437° W3.31005°</cmt>
+    <desc>N52.51437° W3.31005°</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:30:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.19259428104987" lon="-3.080696749920136">
+    <time>2025-07-04T14:30:41Z</time>
+    <name>Start C</name>
+    <cmt>N53.19259° W3.08070°</cmt>
+    <desc>N53.19259° W3.08070°</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:30:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+    <wpt lat="53.28329553191695" lon="-3.8088018816856732">
+    <time>2025-07-04T14:30:41Z</time>
+    <name>Start D</name>
+    <cmt>N53.28330° W3.80880°</cmt>
+    <desc>N53.28330° W3.80880°</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:30:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+    <wpt lat="51.816790657104335" lon="-4.5051701163495395">
+    <time>2025-07-04T14:30:41Z</time>
+    <name>Start E</name>
+    <cmt>N51.81679° W4.50517°</cmt>
+    <desc>N51.81679° W4.50517°</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:30:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+    <wpt lat="51.739338812287066" lon="-3.3780449780125568">
+    <time>2025-07-04T14:30:41Z</time>
+    <name>Start F</name>
+    <cmt>N51.73934° W3.37804°</cmt>
+    <desc>N51.73934° W3.37804°</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:30:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+    <wpt lat="51.58821862825194" lon="-2.8362310814357805">
+    <time>2025-07-04T14:30:41Z</time>
+    <name>Start G</name>
+    <cmt>N51.58822° W2.83623°</cmt>
+    <desc>N51.58822° W2.83623°</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-07-04T14:30:41Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1364,6 +1484,26 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2025-07-04T14:30:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.41770479013512" lon="-4.0841747086518865">
+    <time>2025-06-30T19:49:44Z</time>
+    <name>Finish</name>
+    <cmt>Finish</cmt>
+    <desc>Finish</desc>
+    <sym>Flag, Green</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2025-06-30T19:49:44Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
