@@ -10,10 +10,11 @@ if (!apiKey) {
 
 const endpoint = 'https://maps.googleapis.com/maps/api/directions/json';
 
+const getName = name => name.split('-')[0].trim();
+const getWeighting = name => (name.split('-')[1] || '0').trim();
+
 async function parseGpxFile(filePath) {
   const gpxText = await fs.readFile(filePath + '/route.gpx', 'utf8');
-  const pointsText = await fs.readFile(filePath + '/points.json', 'utf8');
-  const points = JSON.parse(pointsText);
   const parser = new gpxParser();
   parser.parse(gpxText);
 
@@ -23,18 +24,19 @@ async function parseGpxFile(filePath) {
   const queries = [];
   for (const fromWaypoint of parser.waypoints) {
     const fromLoc = `${fromWaypoint.lat}, ${fromWaypoint.lon}`;
-    const fromName = fromWaypoint.name;
+    const fromName = getName(fromWaypoint.name);
 
     for (const toWaypoint of parser.waypoints) {
+      const toName = getName(toWaypoint.name);
+
       if (fromWaypoint === toWaypoint)
         continue;
 
-      if (fromWaypoint.name === 'Finish' || toWaypoint.name.startsWith('Start'))
+      if (fromName === 'Finish' || toName.startsWith('Start'))
         continue;
 
       const toLoc = `${toWaypoint.lat}, ${toWaypoint.lon}`;
-      const toName = toWaypoint.name;
-      const weighting = points.waypointScores[parseInt(toName)] || 0;
+      const weighting = parseInt(getWeighting(toWaypoint.name)) || 0;
       queries.push({ fromLoc, fromName, toLoc, toName, weighting });
     }
   }
@@ -48,12 +50,32 @@ async function sendDirectionsRequest(from, to) {
     key: apiKey,
   });
 
-  const response = await fetch(`${endpoint}?${params.toString()}`);
-  const data = await response.json();
+  let retries = 0;
+  let data = null;
 
-  if (!response.ok) {
-    console.error('Request failed:', response.status, response.statusText);
-    console.error(data);
+  while (retries < 10) {
+    try
+    {
+      const response = await fetch(`${endpoint}?${params.toString()}`);
+
+      if (!response.ok) {
+        console.error(`Request failed (${from} to ${to}):`, response.status, response.statusText);
+        retries++;
+        await sleep(60 * 1000);
+        continue;
+      }
+      
+      data = await response.json();
+      break;
+    }
+    catch(e) {
+      console.error(`Request failed (${from} to ${to}):`, e);
+      retries++;
+    }
+  }
+
+  if (data === null){
+    console.error('10 requests failed in a row');
     process.exit(1);
   }
 
@@ -99,7 +121,7 @@ async function main() {
 
     if (i > 0 && i % 1000 === 0) {
       // Pause for 1 minute after every 1000 requests to avoid hitting rate limits
-      await sleep(60 * 1000);
+      //await sleep(60 * 1000);
     }
   }
 
