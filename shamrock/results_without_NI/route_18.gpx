@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="shamrock-solver"
+  xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Route #18 - 14489pts</name>
+  </metadata>
+  <wpt lat="54.251304" lon="-8.474453">
+    <name>Start A</name>
+    <desc>START</desc>
+  </wpt>
+  <wpt lat="54.50647001154721" lon="-7.86992403678596">
+    <name>058</name>
+    <desc>Stop 1 (1100pts)</desc>
+  </wpt>
+  <wpt lat="54.46781703270972" lon="-6.65448596701026">
+    <name>072</name>
+    <desc>Stop 2 (1333pts)</desc>
+  </wpt>
+  <wpt lat="54.505971958860755" lon="-6.834775004535914">
+    <name>027</name>
+    <desc>Stop 3 (631pts)</desc>
+  </wpt>
+  <wpt lat="54.33109000325203" lon="-6.043859962373972">
+    <name>118</name>
+    <desc>Stop 4 (1380pts)</desc>
+  </wpt>
+  <wpt lat="54.058389980345964" lon="-5.990920029580593">
+    <name>042</name>
+    <desc>Stop 5 (999pts)</desc>
+  </wpt>
+  <wpt lat="54.23889602534473" lon="-5.989381028339267">
+    <name>117</name>
+    <desc>Stop 6 (1380pts)</desc>
+  </wpt>
+  <wpt lat="54.19648803770542" lon="-6.134021999314427">
+    <name>077</name>
+    <desc>Stop 7 (501pts)</desc>
+  </wpt>
+  <wpt lat="54.06126002781093" lon="-6.274706963449717">
+    <name>099</name>
+    <desc>Stop 8 (888pts)</desc>
+  </wpt>
+  <wpt lat="53.872049963101745" lon="-6.486783027648926">
+    <name>029</name>
+    <desc>Stop 9 (898pts)</desc>
+  </wpt>
+  <wpt lat="54.00984702631831" lon="-6.946499990299344">
+    <name>097</name>
+    <desc>Stop 10 (1018pts)</desc>
+  </wpt>
+  <wpt lat="53.82079001516104" lon="-6.745870001614094">
+    <name>116</name>
+    <desc>Stop 11 (767pts)</desc>
+  </wpt>
+  <wpt lat="53.47367696464062" lon="-7.014069026336074">
+    <name>075</name>
+    <desc>Stop 12 (477pts)</desc>
+  </wpt>
+  <wpt lat="53.3501619938761" lon="-7.274790974333882">
+    <name>091</name>
+    <desc>Stop 13 (1450pts)</desc>
+  </wpt>
+  <wpt lat="53.2264200411737" lon="-7.22695997916162">
+    <name>113</name>
+    <desc>Stop 14 (867pts)</desc>
+  </wpt>
+  <wpt lat="53.46429996192455" lon="-7.92769999243319">
+    <name>050</name>
+    <desc>Stop 15 (800pts)</desc>
+  </wpt>
+  <wpt lat="53.326841" lon="-8.219964">
+    <name>Finish</name>
+    <desc>FINISH</desc>
+  </wpt>
+</gpx>

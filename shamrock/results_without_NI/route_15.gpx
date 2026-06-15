@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="shamrock-solver"
+  xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Route #15 - 14534pts</name>
+  </metadata>
+  <wpt lat="54.251304" lon="-8.474453">
+    <name>Start A</name>
+    <desc>START</desc>
+  </wpt>
+  <wpt lat="53.9722400251776" lon="-8.47443200647831">
+    <name>031</name>
+    <desc>Stop 1 (940pts)</desc>
+  </wpt>
+  <wpt lat="54.06130101531744" lon="-8.166021974757314">
+    <name>088</name>
+    <desc>Stop 2 (799pts)</desc>
+  </wpt>
+  <wpt lat="54.50647001154721" lon="-7.86992403678596">
+    <name>058</name>
+    <desc>Stop 3 (1100pts)</desc>
+  </wpt>
+  <wpt lat="54.46781703270972" lon="-6.65448596701026">
+    <name>072</name>
+    <desc>Stop 4 (1333pts)</desc>
+  </wpt>
+  <wpt lat="54.33109000325203" lon="-6.043859962373972">
+    <name>118</name>
+    <desc>Stop 5 (1380pts)</desc>
+  </wpt>
+  <wpt lat="54.23889602534473" lon="-5.989381028339267">
+    <name>117</name>
+    <desc>Stop 6 (1380pts)</desc>
+  </wpt>
+  <wpt lat="54.058389980345964" lon="-5.990920029580593">
+    <name>042</name>
+    <desc>Stop 7 (999pts)</desc>
+  </wpt>
+  <wpt lat="53.5859000030905" lon="-6.289920033887029">
+    <name>106</name>
+    <desc>Stop 8 (982pts)</desc>
+  </wpt>
+  <wpt lat="53.38957001455128" lon="-6.068520024418831">
+    <name>043</name>
+    <desc>Stop 9 (1304pts)</desc>
+  </wpt>
+  <wpt lat="53.3501619938761" lon="-7.274790974333882">
+    <name>091</name>
+    <desc>Stop 10 (1450pts)</desc>
+  </wpt>
+  <wpt lat="53.2264200411737" lon="-7.22695997916162">
+    <name>113</name>
+    <desc>Stop 11 (867pts)</desc>
+  </wpt>
+  <wpt lat="53.326841" lon="-8.219964">
+    <name>Finish</name>
+    <desc>FINISH</desc>
+  </wpt>
+</gpx>

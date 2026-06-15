@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="shamrock-solver"
+  xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Route #8 - 14662pts</name>
+  </metadata>
+  <wpt lat="53.74089" lon="-7.80277">
+    <name>Start E</name>
+    <desc>START</desc>
+  </wpt>
+  <wpt lat="53.3501619938761" lon="-7.274790974333882">
+    <name>091</name>
+    <desc>Stop 1 (1450pts)</desc>
+  </wpt>
+  <wpt lat="53.2264200411737" lon="-7.22695997916162">
+    <name>113</name>
+    <desc>Stop 2 (867pts)</desc>
+  </wpt>
+  <wpt lat="53.44601098448038" lon="-7.337171025574207">
+    <name>114</name>
+    <desc>Stop 3 (503pts)</desc>
+  </wpt>
+  <wpt lat="53.38957001455128" lon="-6.068520024418831">
+    <name>043</name>
+    <desc>Stop 4 (1304pts)</desc>
+  </wpt>
+  <wpt lat="53.5859000030905" lon="-6.289920033887029">
+    <name>106</name>
+    <desc>Stop 5 (982pts)</desc>
+  </wpt>
+  <wpt lat="54.33109000325203" lon="-6.043859962373972">
+    <name>118</name>
+    <desc>Stop 6 (1380pts)</desc>
+  </wpt>
+  <wpt lat="54.23889602534473" lon="-5.989381028339267">
+    <name>117</name>
+    <desc>Stop 7 (1380pts)</desc>
+  </wpt>
+  <wpt lat="54.32548896409571" lon="-5.721935033798218">
+    <name>017</name>
+    <desc>Stop 8 (465pts)</desc>
+  </wpt>
+  <wpt lat="54.19648803770542" lon="-6.134021999314427">
+    <name>077</name>
+    <desc>Stop 9 (501pts)</desc>
+  </wpt>
+  <wpt lat="54.06126002781093" lon="-6.274706963449717">
+    <name>099</name>
+    <desc>Stop 10 (888pts)</desc>
+  </wpt>
+  <wpt lat="53.872049963101745" lon="-6.486783027648926">
+    <name>029</name>
+    <desc>Stop 11 (898pts)</desc>
+  </wpt>
+  <wpt lat="53.82079001516104" lon="-6.745870001614094">
+    <name>116</name>
+    <desc>Stop 12 (767pts)</desc>
+  </wpt>
+  <wpt lat="53.47367696464062" lon="-7.014069026336074">
+    <name>075</name>
+    <desc>Stop 13 (477pts)</desc>
+  </wpt>
+  <wpt lat="53.46429996192455" lon="-7.92769999243319">
+    <name>050</name>
+    <desc>Stop 14 (800pts)</desc>
+  </wpt>
+  <wpt lat="53.326841" lon="-8.219964">
+    <name>Finish</name>
+    <desc>FINISH</desc>
+  </wpt>
+</gpx>
